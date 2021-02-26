@@ -5,3 +5,6 @@ Mi Primer Sitio Web (Lorem Ipsum)
 ### Subtítulo
 #### Subtítulo
 
+*Lorem Ipsum*
+
+**Lorem Ipsum**
